@@ -1,3 +1,3 @@
 # Bon-Appetit
 a website for my own characters
- <a href=BonAppetit target=_blank> continue -</a>
+ <a href=Bon-Appetit.html target=_blank> continue -</a>
